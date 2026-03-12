@@ -15,9 +15,9 @@ Evolving from **Frontend Engineer** to **Agent Developer**
 
 - **Agent Coding**  
   Reverse engineering tools like **Claude Code / Codex / Cursor** to understand:
-- what actually makes them useful,
-- where they break,
-- and what an optimal Coding Agent paradigm should look like.
+  - what actually makes them useful,
+  - where they break,
+  - and what an optimal Coding Agent paradigm should look like.
 
 
 ---
