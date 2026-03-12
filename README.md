@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Kiteeater/Kiteeater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **KiteEater**  
+Evolving from **Frontend Engineer** to **Agent Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+- **VibeEval**  
+  Building an engineering-grade evaluation framework for coding agents
+
+- **Memory System**  
+  Exploring local persistent memory solutions on AGENT
+
+- **Agent Coding**  
+  Reverse engineering tools like **Claude Code / Codex / Cursor** to understand:
+- what actually makes them useful,
+- where they break,
+- and what an optimal Coding Agent paradigm should look like.
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React / Vue / Angular
+- **Backend**: Node.js  
+- **Agent**: LangChain / Custom Skills  
+- **Languages**: TypeScript / Python  
+
+> Frontend is my strength.  
+> and I’m now extending that rigor into backend systems and agent architecture.
+
+---
+
+## 🌙 Motto
+
+> Not someone who loved coding from day one —
+> just someone who kept building until love became real.
