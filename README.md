@@ -24,10 +24,12 @@ Evolving from **Frontend Engineer** to **Agent Developer**
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React / Vue / Angular
-- **Backend**: Node.js  
-- **Agent**: LangChain / Custom Skills  
-- **Languages**: TypeScript / Python  
+- Frontend: React 18, Vue 3, TypeScript, Tailwind CSS
+- Backend: Node.js, Express, Python (FastAPI)
+- Agent: LangChain,  OpenAI SDK, Claude Code SDK
+- Database: PostgreSQL, MongoDB, Redis
+- DevOps: Docker,  Vercel
+- AI Tools: Codex，Cursor, Claude Code, v0, Lovable
 
 > Frontend is my strength.  
 > and I’m now extending that rigor into backend systems and agent architecture.
